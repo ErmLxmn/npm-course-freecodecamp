@@ -13,5 +13,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"keywords": [ "freecodecamp", "npm", "challenge" ]
+	"keywords": [ "freecodecamp", "npm", "challenge" ],
+	"license": "FCC"
 }
